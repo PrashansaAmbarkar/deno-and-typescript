@@ -59,13 +59,11 @@
 
 The topics I would be covering in Deno and TypeScript 
 
-* I would be going the implementation and processing using Deno. 
+* I worked on the implementation and processing using Deno. 
 
-* I would be working on javascript, html and Css to develop a small project.
+* I worked on the typeScript and working of the code.
 
-* I will put my hands on TypeScript as well.
-
-* I would also be working on debugging.
+* .
 
 
 
