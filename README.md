@@ -66,15 +66,24 @@
     * Download Visual Studio  
     * Download the Chocolatey
     * Download Deno
+    * Intsall Extension- justJavac (Deno Support for VS code from Market Place) 
+    * Download Postman Workplace (Optional)
+    
   ## Commands to know? 
     * To run deno - run your deno followed by the file name; i.e., " deno run appPrash.ts ".
-      Will that work? Nah! you will need to allow permission 
+      -Will that work? Nah! you will need to allow permission 
     * To give permission and allow access; "deno run --allow-net appPrash.ts".
-      What else you can know? Version and details? 
+      -What else you can know? Version and details? 
     * Know all deno details on your computer; " deno --help ".
-      How to allow write and read?
-    * allow -write and allow -read
+      -How to allow write and read?
+    * "allow -write" and "allow -read"
   
+  ## Refernces
+    * https://chocolatey.org/
+    * https://deno.land/std@0.67.0/examples
+    * https://dev.to/am77/deno-v1-0-303j
+    * https://denocode.com/?page=examples
+    * https://www.postman.com/
 
 ## Praneeth Vallabhaneni 
 
