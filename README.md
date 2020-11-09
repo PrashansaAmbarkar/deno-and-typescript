@@ -70,12 +70,18 @@
     * Download Postman Workplace (Optional)
     
   ## Commands to know? 
-    * To run deno - run your deno followed by the file name; i.e., " deno run appPrash.ts ".
-      -Will that work? Nah! you will need to allow permission 
+    * To run deno - run your deno followed by the file name; i.e., " deno run appPrash.ts ". 
+   
+   Will that work? Nah! you will need to allow permission 
+   
     * To give permission and allow access; "deno run --allow-net appPrash.ts".
-      -What else you can know? Version and details? 
+   
+   What else you can know? Version and details? 
+    
     * Know all deno details on your computer; " deno --help ".
-      -How to allow write and read?
+   
+   How to allow write and read?
+      
     * "allow -write" and "allow -read"
   
   ## Refernces
