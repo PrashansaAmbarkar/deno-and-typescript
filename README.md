@@ -72,7 +72,7 @@
   ## Commands to know? 
     * To run deno - run your deno followed by the file name; i.e., " deno run appPrash.ts ". 
    
-   Will that work? Nah! you will need to allow permission 
+   Will that work? Nah! you will need to allow permissions 
    
     * To give permission and allow access; "deno run --allow-net appPrash.ts".
    
@@ -84,12 +84,14 @@
       
     * "allow -write" and "allow -read"
   
-  ## Refernces
+  ## References
   * https://chocolatey.org/
   * https://deno.land/std@0.67.0/examples
   * https://dev.to/am77/deno-v1-0-303j
   * https://denocode.com/?page=examples
   * https://www.postman.com/
+  * https://github.com/
+  * https://www.youtube.com/
 
 ## Praneeth Vallabhaneni 
 
