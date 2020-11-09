@@ -66,7 +66,7 @@
     * Download Visual Studio  
     * Download the Chocolatey
     * Download Deno
-    * Intsall Extension- justJavac (Deno Support for VS code from Market Place) 
+    * Install Extension- justJavac (Deno Support for VS code from Market Place) 
     * Download Postman Workplace (Optional)
     
   ## Commands to know? 
