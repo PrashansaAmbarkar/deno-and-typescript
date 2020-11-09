@@ -57,13 +57,17 @@
 
 <img src ="images/dp.JPG" width="215" height ="235" align ="right">
 
-The topics I would be covering in Deno and TypeScript 
+  ## The topics I would be covering in Deno and TypeScript 
+    * I worked on the implementation and processing using Deno.    
+    * I worked on the typeScript and working of the code.
 
-* I worked on the implementation and processing using Deno. 
-
-* I worked on the typeScript and working of the code.
-
-* .
+  ## You need to
+    * Download Visual Studio  
+    * Download the Chocolatey
+    * Download Deno
+  
+  
+  
 
 
 
