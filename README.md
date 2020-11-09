@@ -79,11 +79,11 @@
     * "allow -write" and "allow -read"
   
   ## Refernces
-    * https://chocolatey.org/
-    * https://deno.land/std@0.67.0/examples
-    * https://dev.to/am77/deno-v1-0-303j
-    * https://denocode.com/?page=examples
-    * https://www.postman.com/
+  * https://chocolatey.org/
+  * https://deno.land/std@0.67.0/examples
+  * https://dev.to/am77/deno-v1-0-303j
+  * https://denocode.com/?page=examples
+  * https://www.postman.com/
 
 ## Praneeth Vallabhaneni 
 
