@@ -57,19 +57,24 @@
 
 <img src ="images/dp.JPG" width="215" height ="235" align ="right">
 
-  ## The topics I would be covering in Deno and TypeScript 
+  ## The topics I would be covering in Deno and TypeScript: 
+  
     * I worked on the implementation and processing using Deno.    
     * I worked on the typeScript and working of the code.
 
-  ## You need to
+  ## You need to:
     * Download Visual Studio  
     * Download the Chocolatey
     * Download Deno
+  ## Commands to know? 
+    * To run deno - run your deno followed by the file name; i.e., " deno run appPrash.ts ".
+      Will that work? Nah! you will need to allow permission 
+    * To give permission and allow access; "deno run --allow-net appPrash.ts".
+      What else you can know? Version and details? 
+    * Know all deno details on your computer; " deno --help ".
+      How to allow write and read?
+    * allow -write and allow -read
   
-  
-  
-
-
 
 ## Praneeth Vallabhaneni 
 
